@@ -1,4 +1,4 @@
-17.tcp.vip.cpolar.cn:14083
-25.tcp.cpolar.top:12082
+5.tcp.cpolar.cn:12679
+25.tcp.cpolar.top:12544
 25.tcp.cpolar.top:13899
 end
